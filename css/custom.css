@@ -1,7 +1,7 @@
 #grad1 {
     width:100%;
-    background: linear-gradient(-20deg, #0fb8ad 20%, #1fc8db 51%, #2cb5e8 75%);
-    color:white;
+    background: url("chsmith.jpg");
+    color:black;
     opacity:0.95;
 }
 

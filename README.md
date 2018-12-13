@@ -1,2 +1,2 @@
-# forjackson
-ep eta secret santa 2017
+# is connor staffed?
+jwang doing stupid shit

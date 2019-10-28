@@ -1,2 +1,2 @@
-# is connor staffed?
-jwang doing stupid shit
+# Laura Moran's CLASH adventure
+(redeemable with Julia)

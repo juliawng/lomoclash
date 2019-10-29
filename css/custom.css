@@ -1,8 +1,16 @@
+h1 {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 10vw;
+}
+
+p {
+  font-family: 'Lato', sans-serif;
+  font-size: 5vw;
+}
 #grad1 {
     width:100%;
     background-color: black;
     color:white;
-    font-family: 'Libre Baskerville', serif;
     opacity:0.95;
 }
 
